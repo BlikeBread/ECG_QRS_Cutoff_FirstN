@@ -76,6 +76,9 @@ ECG recordings were processed using a custom R pipeline in which QRS interval di
 
 This script was developed by **Michele Buono** and can be used freely for research purposes, provided appropriate citation of the author.
 
+**Buono, M. F. (2026). ECG Analysis Pipeline (Script 02/03) - QRS cutoff & First-N Averaging (v.1.0.0). Zenodo. 
+https://doi.org/10.5281/zenodo.18504302**
+
 The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from **ChatGPT 5.2**, which was used as a tool to improve code organization, documentation, and usability.
 
 
